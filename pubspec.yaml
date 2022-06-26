@@ -1,0 +1,53 @@
+name: food
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/food/assets/images/vector.svg
+    - packages/food/assets/images/profilepic.png
+    - packages/food/assets/images/emojionemonotonepotoffood.svg
+    - packages/food/assets/images/group.svg
+    - packages/food/assets/images/ellipse1.png
+    - packages/food/assets/images/edit.svg
+    - packages/food/assets/images/shoeprints.svg
+    - packages/food/assets/images/burn.svg
+    - packages/food/assets/images/heartbeat.svg
+    - packages/food/assets/images/bed.svg
+    - packages/food/assets/images/adjust.svg
+    - packages/food/assets/images/dumbbell.svg
+    - packages/food/assets/images/carbonstressbreatheditor.svg
+    - packages/food/assets/images/weight.svg
+    - packages/food/assets/images/unsplashwxfpswytxf8.png
+    - packages/food/assets/images/unsplash4gcqrf3f2i.png
+    - packages/food/assets/images/unsplashh4i9gde7po.png
+    - packages/food/assets/images/dashiconssearch.svg
+    - packages/food/assets/images/unsplash7kepupb8vnk.png
+    - packages/food/assets/images/unsplashrrcvrrytlqq.png
+    - packages/food/assets/images/unsplashfg0p4qhawi.png
+    - packages/food/assets/images/unsplash7gd6up6sha.png
+    - packages/food/assets/images/unsplashrzmcg1qoyq.png
+    - packages/food/assets/images/unsplashdc5akqjyh4i.png
+    - packages/food/assets/images/unsplashcoiwr0gt8cw.png
+    - packages/food/assets/images/unsplashum3niahmqpy.png
+    - packages/food/assets/images/unsplashy74bvl976ea.png
+    - packages/food/assets/images/rectangle8.png
+    - packages/food/assets/images/rectangle.png
+    - packages/food/assets/images/rectangle15.png
+    - packages/food/assets/images/batteryquarter.svg
+    - packages/food/assets/images/wifi.svg
+    - packages/food/assets/images/signal.svg
